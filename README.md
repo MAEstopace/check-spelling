@@ -1,2 +1,2 @@
 # check-spelling
-The quick brown fox jumps over the lazy dogis.
+The quick brown fox jumps over the lazy dogissi.
