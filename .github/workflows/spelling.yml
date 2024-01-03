@@ -105,6 +105,12 @@ jobs:
         only_check_changed_files: 1
         extra_dictionaries:
           cspell:software-terms/dict/softwareTerms.txt
+          cspell:aws/dict/aws.txt
+          cspell:css/dict/css.txt
+          cspell:html/dict/html.txt
+          cspell:django/dict/django.txt
+          cspell:docker/src/docker-words.txt
+          cspell:python/src/python/python.txt
 
   comment-pr:
     name: Report (PR)
