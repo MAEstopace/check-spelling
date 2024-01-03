@@ -1,2 +1,2 @@
 # check-spelling
-test repository for checking spelling
+The quick brown fox jumps over the lazy dogis.
